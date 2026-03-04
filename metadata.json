@@ -1,0 +1,5 @@
+{
+  "name": "PEDV TCID50 Calculator",
+  "description": "A specialized tool for virology labs to calculate TCID50 using the Reed-Muench method from unstructured experiment notes.",
+  "requestFramePermissions": []
+}
